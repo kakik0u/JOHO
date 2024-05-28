@@ -19,6 +19,9 @@
 2_4_繰り返し処理（for文）①_ノートブック.ipynb
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kakik0u/JOHO/blob/main/2_4_繰り返し処理（for文）①_ノートブック.ipynb)
 
+2_5_繰り返し処理（for文）②_ノートブック.ipynb
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kakik0u/JOHO/blob/main/2_5_繰り返し処理（for文）②_ノートブック.ipynb)
+
 python21_if文_A基本問題
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kakik0u/JOHO/blob/main/python21_if文_A基本問題.ipynb)
 
@@ -42,3 +45,9 @@ python24_for文1_A基本問題.ipynb
 
 python24_for文1_B応用問題.ipynb
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kakik0u/JOHO/blob/main/python24_for文1_B応用問題.ipynb)
+
+python25_for文2_A基本問題.ipynb
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kakik0u/JOHO/blob/main/python25_for文2_A基本問題.ipynb)
+
+python25_for文2_B応用問題.ipynb
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kakik0u/JOHO/blob/main/python25_for文2_B応用問題.ipynb)
