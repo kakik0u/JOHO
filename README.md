@@ -25,6 +25,9 @@
 3_1_リスト（list）_ノートブック.ipynb
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kakik0u/JOHO/blob/main/3_1_リスト（list）_ノートブック.ipynb)
 
+3_2_関数定義（def文）_ノートブック.ipynb
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kakik0u/JOHO/blob/main/3_2_関数定義（def文）_ノートブック.ipynb)
+
 python21_if文_A基本問題
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kakik0u/JOHO/blob/main/python21_if文_A基本問題.ipynb)
 
@@ -60,3 +63,6 @@ python31_list1_A基本問題.ipynb
 
 python31_list1_B応用問題.ipynb
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kakik0u/JOHO/blob/main/python31_list1_B応用問題.ipynb)
+
+python32_def文_問題.ipynb
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kakik0u/JOHO/blob/main/python32_def文_問題.ipynb)
